@@ -692,7 +692,7 @@ h4 {
 
   .skip-link,
   .site-header,
-  main, {
+  main {
     display: none;
   }
 
