@@ -194,7 +194,7 @@ h4 {
 }
 
 .explore {
-  padding: 39px 0 52px;
+  padding: 39px 0 20px;
 }
 
 .explore-heading {
@@ -534,6 +534,24 @@ h4 {
 
 .print-report {
   display: none;
+}
+
+.feedback {
+  max-width: 760px;
+  margin: 20px auto 48px;
+  padding: 24px 20px 0;
+  border-top: 1px solid #c2d2ef;
+  text-align: center;
+}
+
+.feedback h2 {
+  margin-bottom: 8px;
+  color: #1c3267;
+  font-size: 1.25rem;
+}
+
+.feedback p {
+  margin-bottom: 0;
 }
 
 .site-footer {
